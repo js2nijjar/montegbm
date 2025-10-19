@@ -9,3 +9,5 @@ Monte-Carlo Method by Generating a Large Number of Asset Paths to Price Asian Op
 ![montegbm 3](https://github.com/js2nijjar/montegbm/assets/141672092/96515d0e-7a3a-440d-a47d-1997f39cc9f4)
 
 ![montegbm 4](https://github.com/js2nijjar/montegbm/assets/141672092/e4219b90-aa5d-44d3-ac5f-3336f771413e)
+
+<img width="1700" height="2338" alt="Scan_20251019 (2)" src="https://github.com/user-attachments/assets/78b30e08-4097-464a-8e2e-eaf55b0b7377" />
